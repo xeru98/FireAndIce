@@ -1223,3 +1223,686 @@ LogInit: Object subsystem initialized
 [2018.04.13-22.17.10:819][511]SourceControl:  delete mode 100644 Content/Meshes/Outdated/VentHoods_VentHood3.uasset
 [2018.04.13-22.17.10:819][511]SourceControl:  delete mode 100644 Content/Meshes/Outdated/VentHoods_VentHood4.uasset
 [2018.04.13-22.17.10:854][511]SourceControl: Commited [development 340ba04] cleaning pt 2.
+[2018.04.13-22.20.11:831][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Room_Model)
+[2018.04.13-22.22.49:601][309]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Patrick I Critz\Downloads\THISBETTERFUCKINGWORK.fbx)
+[2018.04.13-22.22.49:625][309]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.13-22.22.49:625][309]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.04.13-22.22.49:625][309]LogFbx: ItemName: Material, ItemCount : 6
+[2018.04.13-22.22.49:625][309]LogFbx: ItemName: Implementation, ItemCount : 6
+[2018.04.13-22.22.49:625][309]LogFbx: ItemName: BindingTable, ItemCount : 6
+[2018.04.13-22.22.49:625][309]LogFbx: ItemName: Model, ItemCount : 3
+[2018.04.13-22.22.49:630][309]LogFbx: Loading FBX Scene from C:\Users\Patrick I Critz\Downloads\THISBETTERFUCKINGWORK.fbx
+[2018.04.13-22.22.49:651][309]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-22.22.50:652][309]LogFbx: Loading FBX Scene from C:\Users\Patrick I Critz\Downloads\THISBETTERFUCKINGWORK.fbx
+[2018.04.13-22.22.50:675][309]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.13-22.22.50:676][309]LogLinker: Can't find file '/Game/Steel'
+[2018.04.13-22.22.50:676][309]LogLinker: Can't find file '/Game/Steel'
+[2018.04.13-22.22.50:683][309]LogMaterial: Missing cached shader map for material Steel, compiling. 
+[2018.04.13-22.22.50:737][309]LogLinker: Can't find file '/Game/Red'
+[2018.04.13-22.22.50:737][309]LogLinker: Can't find file '/Game/Red'
+[2018.04.13-22.22.50:742][309]LogMaterial: Missing cached shader map for material Red, compiling. 
+[2018.04.13-22.22.50:764][309]LogLinker: Can't find file '/Game/Blue'
+[2018.04.13-22.22.50:764][309]LogLinker: Can't find file '/Game/Blue'
+[2018.04.13-22.22.50:770][309]LogMaterial: Missing cached shader map for material Blue, compiling. 
+[2018.04.13-22.22.50:794][309]LogLinker: Can't find file '/Game/Yellow'
+[2018.04.13-22.22.50:794][309]LogLinker: Can't find file '/Game/Yellow'
+[2018.04.13-22.22.50:804][309]LogMaterial: Missing cached shader map for material Yellow, compiling. 
+[2018.04.13-22.22.50:839][309]LogLinker: Can't find file '/Game/Green'
+[2018.04.13-22.22.50:839][309]LogLinker: Can't find file '/Game/Green'
+[2018.04.13-22.22.50:845][309]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2018.04.13-22.22.50:866][309]LogLinker: Can't find file '/Game/HoodMetal'
+[2018.04.13-22.22.50:866][309]LogLinker: Can't find file '/Game/HoodMetal'
+[2018.04.13-22.22.50:871][309]LogMaterial: Missing cached shader map for material HoodMetal, compiling. 
+[2018.04.13-22.22.50:900][309]LogFbx: Warning: Triangulating static mesh VentHood4
+[2018.04.13-22.22.50:977][309]LogStaticMesh: Building static mesh THISBETTERFUCKINGWORK_VentHood4...
+[2018.04.13-22.22.51:089][309]LogStaticMesh: Built static mesh [0.11s] /Game/THISBETTERFUCKINGWORK_VentHood4.THISBETTERFUCKINGWORK_VentHood4
+[2018.04.13-22.22.51:130][309]LogFbx: Warning: Triangulating static mesh VentHood5
+[2018.04.13-22.22.51:235][309]LogStaticMesh: Building static mesh THISBETTERFUCKINGWORK_VentHood5...
+[2018.04.13-22.22.51:367][309]LogStaticMesh: Built static mesh [0.13s] /Game/THISBETTERFUCKINGWORK_VentHood5.THISBETTERFUCKINGWORK_VentHood5
+[2018.04.13-22.22.51:408][309]LogFbx: Warning: Triangulating static mesh VentHood6
+[2018.04.13-22.22.51:514][309]LogStaticMesh: Building static mesh THISBETTERFUCKINGWORK_VentHood6...
+[2018.04.13-22.22.51:629][309]LogStaticMesh: Built static mesh [0.12s] /Game/THISBETTERFUCKINGWORK_VentHood6.THISBETTERFUCKINGWORK_VentHood6
+[2018.04.13-22.22.51:630][309]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.13-22.23.10:457][763]SourceControl: On branch development
+[2018.04.13-22.23.10:457][763]SourceControl: Your branch is up to date with 'origin/development'.
+[2018.04.13-22.23.10:457][763]SourceControl: nothing to commit, working tree clean
+[2018.04.13-22.23.11:100][763]LogSavePackage: Save=15.89ms
+[2018.04.13-22.23.11:100][763]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/THISBETTERFUCKINGWORK_VentHood40FE7DA37434ED93B618BC3AC02A02BD3.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Meshes/THISBETTERFUCKINGWORK_VentHood4.uasset'
+[2018.04.13-22.23.11:104][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Meshes/THISBETTERFUCKINGWORK_VentHood4.uasset
+[2018.04.13-22.23.11:407][763]LogSavePackage: Save=15.75ms
+[2018.04.13-22.23.11:407][763]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/THISBETTERFUCKINGWORK_VentHood677688446422975E54D1009A7766F6D14.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Meshes/THISBETTERFUCKINGWORK_VentHood6.uasset'
+[2018.04.13-22.23.11:411][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Meshes/THISBETTERFUCKINGWORK_VentHood6.uasset
+[2018.04.13-22.23.11:693][763]LogSavePackage: Save=14.41ms
+[2018.04.13-22.23.11:693][763]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/THISBETTERFUCKINGWORK_VentHood5EA2ADF8940FB6CC17BD0E9B98EDF1751.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Meshes/THISBETTERFUCKINGWORK_VentHood5.uasset'
+[2018.04.13-22.23.11:697][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Meshes/THISBETTERFUCKINGWORK_VentHood5.uasset
+[2018.04.13-22.23.23:487][ 10]SourceControl: rm 'Content/Meshes/MatchTip.uasset'
+[2018.04.13-22.23.26:161][ 50]SourceControl: rm 'Content/Meshes/REdButtonMat1.uasset'
+[2018.04.13-22.23.29:780][135]SourceControl: rm 'Content/Meshes/Frame.uasset'
+[2018.04.13-22.23.32:712][172]SourceControl: rm 'Content/Meshes/CounterTop.uasset'
+[2018.04.13-22.23.41:817][708]LogActorFactory: Actor Factory created THISBETTERFUCKINGWORK_VentHood4
+[2018.04.13-22.23.41:817][708]LogActorFactory: Actor Factory created THISBETTERFUCKINGWORK_VentHood6
+[2018.04.13-22.23.41:818][708]LogActorFactory: Actor Factory created THISBETTERFUCKINGWORK_VentHood5
+[2018.04.13-22.23.42:043][719]LogActorFactory: Actor Factory created THISBETTERFUCKINGWORK_VentHood4
+[2018.04.13-22.23.42:063][719]LogActorFactory: Actor Factory created THISBETTERFUCKINGWORK_VentHood6
+[2018.04.13-22.23.42:084][719]LogActorFactory: Actor Factory created THISBETTERFUCKINGWORK_VentHood5
+[2018.04.13-22.23.58:184][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_West_Model)
+[2018.04.13-22.25.00:491][271]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.13-22.25.00:493][271]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.00:831][271]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.00:855][271]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.00:911][271]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.13-22.25.02:984][351]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.25.02:985][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.25.02:985][351]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.02:985][351]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.05:025][498]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.05:043][498]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.06:566][533]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.06:599][533]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.08:854][578]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.08:884][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.09:721][590]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.09:752][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.11:685][642]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.25.11:685][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.25.11:685][642]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.11:685][642]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.13:411][692]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.13:434][692]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.14:635][715]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.14:665][715]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.17:725][790]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.17:746][790]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.18:861][813]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.18:890][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.19:623][830]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.19:655][830]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.13-22.25.20:674][869]LogMaterialEditor: Applying material M_Walls
+[2018.04.13-22.25.21:425][869]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.21:571][869]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.21:615][869]LogMaterial: Missing cached shader map for material M_Walls, compiling. 
+[2018.04.13-22.25.21:680][869]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Walls, compiling. 
+[2018.04.13-22.25.22:701][869]TextureStreamingBuild: Display: Compiling optional shaders took 1.029 seconds.
+[2018.04.13-22.25.25:487][964]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.25.25:487][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.25.25:487][964]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.25:487][964]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.25.26:601][997]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.26:661][997]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.26:683][997]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.28:306][135]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.25.28:306][135]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.25.28:306][135]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.28:306][135]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.29:754][305]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.29:772][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.25.31:313][373]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.25.31:313][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.25.31:313][373]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.31:313][373]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.32:780][473]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.33:885][555]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.35:074][597]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.36:577][639]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.38:199][700]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.25.38:199][700]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.25.38:199][700]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.38:199][700]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.40:468][806]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.42:466][895]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.42:489][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.25.44:093][943]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.25.44:093][943]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.25.44:093][943]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.44:093][943]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.45:056][978]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.45:074][978]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.25.45:997][  5]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.46:027][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.25.47:876][157]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.25.47:876][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.25.47:876][157]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.47:876][157]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.25.51:932][600]LogMaterialEditor: Saving and Compiling material M_BluePlastic
+[2018.04.13-22.25.52:422][600]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.52:523][600]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.52:566][600]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.25.52:623][600]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BluePlastic, compiling. 
+[2018.04.13-22.25.53:726][600]TextureStreamingBuild: Display: Compiling optional shaders took 1.112 seconds.
+[2018.04.13-22.25.55:991][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_BluePlastic" FILE="../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Materials/M_BluePlastic.uasset" SILENT=true
+[2018.04.13-22.25.56:013][600]LogSavePackage: Save=17.75ms
+[2018.04.13-22.25.56:013][600]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_BluePlasticB60D73014F2A2E4ED31E9EB1A50E2281.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Materials/M_BluePlastic.uasset'
+[2018.04.13-22.25.56:017][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Content/Materials/M_BluePlastic.uasset
+[2018.04.13-22.25.56:264][600]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.25.56:265][600]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.25.56:265][600]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.25.56:265][600]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.25.59:736][812]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.26.01:498][946]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.01:498][946]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.01:498][946]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.01:498][946]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.05:799][331]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.26.07:435][427]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.07:435][427]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.07:435][427]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.07:435][427]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.09:214][516]LogMaterialEditor: Applying material M_BluePlastic
+[2018.04.13-22.26.09:712][516]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.26.09:818][516]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.26.09:860][516]LogMaterial: Missing cached shader map for material M_BluePlastic, compiling. 
+[2018.04.13-22.26.09:917][516]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_BluePlastic, compiling. 
+[2018.04.13-22.26.10:914][516]TextureStreamingBuild: Display: Compiling optional shaders took 1.004 seconds.
+[2018.04.13-22.26.13:836][658]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.13:836][658]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.13:836][658]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.13:836][658]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.26.15:130][729]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.15:230][729]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.15:250][729]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.16:926][816]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.26.16:926][816]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.26.16:926][816]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.16:927][816]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.25:402][661]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.25:419][661]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.27:070][733]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.26.27:070][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.26.27:070][733]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.27:070][733]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.27:977][768]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.28:003][768]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.29:229][788]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.31:119][893]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.31:119][893]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.31:119][893]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.31:119][893]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.33:536][997]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.33:561][997]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.35:459][142]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.35:459][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.35:459][142]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.35:459][142]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.39:110][334]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.39:133][334]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.40:891][525]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.40:892][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.40:892][525]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.40:892][525]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.43:125][749]LogMaterialEditor: Applying material M_GreenPlastic
+[2018.04.13-22.26.43:641][749]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.43:737][749]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.43:778][749]LogMaterial: Missing cached shader map for material M_GreenPlastic, compiling. 
+[2018.04.13-22.26.43:832][749]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_GreenPlastic, compiling. 
+[2018.04.13-22.26.44:916][749]TextureStreamingBuild: Display: Compiling optional shaders took 1.092 seconds.
+[2018.04.13-22.26.46:872][839]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.46:993][839]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.47:022][839]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.48:528][949]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.48:554][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.48:586][950]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.48:586][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.48:586][950]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.48:586][950]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.26.50:005][  0]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.50:032][  0]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.51:595][ 48]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.53:608][132]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.53:608][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.53:608][132]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.53:608][132]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.26.55:666][230]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.26.55:688][230]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.26.57:395][334]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.26.57:395][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.26.57:396][334]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.26.57:396][334]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.01:533][563]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.27.01:553][563]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.27.03:290][741]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.03:290][741]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.03:290][741]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.03:290][741]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.07:853][ 94]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.27.07:879][ 94]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.27.09:738][297]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.09:738][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.09:738][297]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.09:738][297]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.10:759][406]LogMaterialEditor: Applying material M_RedPlastic
+[2018.04.13-22.27.11:264][406]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.27.11:382][406]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.27.11:427][406]LogMaterial: Missing cached shader map for material M_RedPlastic, compiling. 
+[2018.04.13-22.27.11:481][406]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RedPlastic, compiling. 
+[2018.04.13-22.27.12:508][406]TextureStreamingBuild: Display: Compiling optional shaders took 1.036 seconds.
+[2018.04.13-22.27.15:444][563]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.15:444][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.15:444][563]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.15:444][563]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.27.15:685][573]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.15:778][573]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.15:800][573]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.17:519][715]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.27.17:519][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.27.17:519][715]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.17:519][715]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.17:975][768]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.17:992][768]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.27.19:554][835]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.27.19:554][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.27.19:554][835]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.19:554][835]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.20:407][872]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.20:430][872]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.27.21:801][924]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.23:617][  8]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.23:617][  8]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.23:617][  8]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.23:617][  8]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.34:365][544]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.34:388][544]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.27.36:139][737]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.36:139][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.36:139][737]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.36:139][737]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.40:584][ 43]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.40:612][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.04.13-22.27.42:814][286]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.42:815][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.42:815][286]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.42:815][286]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.27.49:485][694]LogMaterialEditor: Applying material M_YellowPlastic
+[2018.04.13-22.27.50:005][694]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.50:106][694]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.50:151][694]LogMaterial: Missing cached shader map for material M_YellowPlastic, compiling. 
+[2018.04.13-22.27.50:206][694]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_YellowPlastic, compiling. 
+[2018.04.13-22.27.51:185][694]TextureStreamingBuild: Display: Compiling optional shaders took 0.988 seconds.
+[2018.04.13-22.27.53:960][912]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.27.53:960][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.27.53:960][912]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.27.53:960][912]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.27.59:966][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood5)
+[2018.04.13-22.28.00:687][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood4)
+[2018.04.13-22.28.00:909][537]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood6)
+[2018.04.13-22.28.38:348][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Room_Model)
+[2018.04.13-22.28.40:034][751]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Roof_Model)
+[2018.04.13-22.28.47:091][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Room_Model)
+[2018.04.13-22.28.50:638][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof_Model)
+[2018.04.13-22.28.55:302][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood5)
+[2018.04.13-22.29.02:841][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood5)
+[2018.04.13-22.29.03:169][509]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood4)
+[2018.04.13-22.29.04:177][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood6)
+[2018.04.13-22.29.08:097][786]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.08:186][786]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.08:206][786]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.10:286][  2]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.29.10:286][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.29.10:286][  2]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.10:287][  2]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.22:494][429]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.22:512][429]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.24:022][480]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.29.24:022][480]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.29.24:022][480]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.24:022][480]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.25:824][556]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.25:844][556]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.27:338][604]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.13-22.29.27:338][604]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.13-22.29.27:338][604]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.27:338][604]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.30:554][750]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.30:581][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.33:358][829]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.33:380][829]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.34:681][852]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.34:713][852]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.37:056][886]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.29.37:056][886]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.29.37:056][886]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.37:056][886]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.44:530][108]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.44:553][108]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.46:209][139]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.29.46:209][139]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.29.46:209][139]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.46:209][139]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.49:004][222]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.49:032][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.50:666][252]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.29.50:666][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.29.50:666][252]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.50:666][252]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.51:716][281]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.51:738][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.53:361][311]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.29.53:361][311]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.29.53:361][311]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.53:361][311]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.55:247][367]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.55:270][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.29.56:859][396]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.29.56:859][396]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.29.56:859][396]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.29.56:859][396]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.29.59:553][475]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.29.59:576][475]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.30.01:588][565]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.01:588][565]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.01:588][565]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.01:588][565]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.06:587][898]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.08:996][958]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.10:783][ 16]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.10:783][ 16]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.10:783][ 16]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.10:783][ 16]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.15:108][251]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.16:851][328]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.16:851][328]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.16:851][328]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.16:851][328]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.18:672][456]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.20:469][536]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.20:469][536]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.20:469][536]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.20:469][536]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.21:966][644]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.23:733][714]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.23:733][714]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.23:733][714]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.23:733][714]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.29:119][ 84]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.30:732][135]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.30:732][135]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.30:732][135]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.30:732][135]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.33:209][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood5)
+[2018.04.13-22.30.44:982][641]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.30.46:741][718]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.30.46:741][718]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.30.46:741][718]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.30.46:741][718]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.30.59:028][528]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.00:948][604]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.31.00:948][604]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.31.00:948][604]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.00:948][604]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.19:546][860]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.22:353][950]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.24:071][ 11]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.31.24:071][ 11]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.31.24:071][ 11]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.24:071][ 11]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.25:858][126]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.27:630][192]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.31.27:630][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.31.27:630][192]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.27:630][192]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.28:746][260]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.30:397][331]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.31.30:397][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.31.30:397][331]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.30:397][331]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.42:998][ 93]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.44:607][166]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.31.44:607][166]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.31.44:607][166]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.44:607][166]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.46:502][290]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.48:292][375]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.31.48:292][375]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.31.48:292][375]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.48:292][375]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.49:194][440]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.31.50:960][510]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.31.50:960][510]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.31.50:960][510]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.31.50:960][510]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.31.58:483][971]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.00:207][ 53]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.32.00:207][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.32.00:207][ 53]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.32.00:207][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.32.04:060][289]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.32.04:573][289]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.04:669][289]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.04:713][289]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.04:766][289]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.32.05:777][289]TextureStreamingBuild: Display: Compiling optional shaders took 1.019 seconds.
+[2018.04.13-22.32.08:683][442]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.32.08:683][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.32.08:683][442]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.32.08:683][442]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.32.11:736][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood5)
+[2018.04.13-22.32.18:028][932]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.18:050][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.32.19:827][973]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.32.19:827][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.32.19:827][973]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.32.19:827][973]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.32.21:589][ 36]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.21:612][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.32.23:358][ 75]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.32.23:358][ 75]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.32.23:358][ 75]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.32.23:358][ 75]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.32.24:984][139]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.25:008][139]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.32.26:697][179]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.32.26:697][179]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.32.26:697][179]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.32.26:697][179]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.32.28:624][252]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.28:646][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.32.29:741][284]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.32.30:400][284]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.30:496][284]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.30:538][284]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.32.30:593][284]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.32.31:642][284]TextureStreamingBuild: Display: Compiling optional shaders took 1.056 seconds.
+[2018.04.13-22.32.34:473][435]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.04.13-22.32.34:473][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.04.13-22.32.34:473][435]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.32.34:473][435]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.33.01:020][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (THISBETTERFUCKINGWORK_VentHood5)
+[2018.04.13-22.33.05:796][216]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.07:707][373]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.07:707][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.07:707][373]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.07:707][373]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.33.10:464][572]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.33.10:969][572]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.11:078][572]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.11:120][572]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.11:174][572]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.33.12:188][572]TextureStreamingBuild: Display: Compiling optional shaders took 1.023 seconds.
+[2018.04.13-22.33.14:927][809]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.14:927][809]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.14:927][809]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.14:927][809]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.33.20:291][ 91]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.20:314][ 91]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.33.21:879][124]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.21:880][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.21:880][124]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.21:880][124]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.33.22:333][139]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.22:354][139]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.33.24:061][243]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.33.24:594][243]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.24:705][243]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.24:748][243]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.24:803][243]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.33.25:812][243]TextureStreamingBuild: Display: Compiling optional shaders took 1.017 seconds.
+[2018.04.13-22.33.28:414][355]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.28:414][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.28:414][355]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.28:414][355]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.33.36:700][806]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.36:723][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.33.38:365][848]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.38:365][848]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.38:365][848]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.38:365][848]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.33.38:877][870]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.38:901][870]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2018.04.13-22.33.40:547][ 24]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.40:547][ 24]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.40:547][ 24]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.40:547][ 24]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.33.43:041][197]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.33.43:555][197]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.43:649][197]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.43:692][197]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.33.43:744][197]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.33.44:799][197]TextureStreamingBuild: Display: Compiling optional shaders took 1.064 seconds.
+[2018.04.13-22.33.47:472][499]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.33.47:472][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.33.47:472][499]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.33.47:472][499]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.34.58:405][428]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.00:576][666]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.35.00:576][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.35.00:576][666]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.35.00:576][666]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.35.02:789][931]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.04:492][ 98]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.35.04:492][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.35.04:492][ 98]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.35.04:492][ 98]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.35.07:338][393]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.35.07:828][393]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.07:924][393]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.07:969][393]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.08:029][393]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.35.09:109][393]TextureStreamingBuild: Display: Compiling optional shaders took 1.091 seconds.
+[2018.04.13-22.35.11:832][551]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.35.11:832][551]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.35.11:832][551]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.35.11:832][551]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.35.24:060][703]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.25:588][794]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.35.26:102][794]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.26:198][794]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.26:244][794]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.26:296][794]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.35.27:275][794]TextureStreamingBuild: Display: Compiling optional shaders took 0.988 seconds.
+[2018.04.13-22.35.30:056][ 29]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.35.30:056][ 29]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.35.30:056][ 29]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.35.30:056][ 29]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.35.39:885][834]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.41:550][930]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.35.41:550][930]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.35.41:550][930]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.35.41:550][930]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.13-22.35.41:949][945]LogMaterialEditor: Applying material M_FumeHood
+[2018.04.13-22.35.42:457][945]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.42:562][945]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.42:606][945]LogMaterial: Missing cached shader map for material M_FumeHood, compiling. 
+[2018.04.13-22.35.42:659][945]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FumeHood, compiling. 
+[2018.04.13-22.35.43:667][945]TextureStreamingBuild: Display: Compiling optional shaders took 1.016 seconds.
+[2018.04.13-22.35.46:472][169]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.13-22.35.46:472][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.13-22.35.46:472][169]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.13-22.35.46:472][169]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.13-22.35.57:545][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CounterTop_Center_Model)
+[2018.04.13-22.36.36:723][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light_West_Model)
+[2018.04.13-22.37.11:703][108]LogSavePackage: Save=76.97ms
+[2018.04.13-22.37.11:703][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/LV_LabRoom_Auto1F9E81AD548DF7A243722A1BBF4D3E6BE.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Maps/LV_LabRoom_Auto1.umap'
+[2018.04.13-22.37.11:705][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Maps/LV_LabRoom_Auto1.umap
+[2018.04.13-22.37.11:708][108]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LV_LabRoom' took 0.116
+[2018.04.13-22.37.11:708][108]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.116
+[2018.04.13-22.37.11:736][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/BottomCabinetsandCounter1_pCube8] ([1] browsable assets)...
+[2018.04.13-22.37.11:773][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/BottomCabinetsandCounter1_pCube8.BottomCabinetsandCounter1_pCube8]
+[2018.04.13-22.37.11:773][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/BottomCabinetsandCounter1_pCube8]
+[2018.04.13-22.37.11:804][108]LogSavePackage: Save=17.46ms
+[2018.04.13-22.37.11:804][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/BottomCabinetsandCounter1_pCube8A33C2E074B54DB7C60B5FF86E171F0CA.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter1_pCube8_Auto1.uasset'
+[2018.04.13-22.37.11:805][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter1_pCube8_Auto1.uasset
+[2018.04.13-22.37.11:806][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_RedPlastic] ([1] browsable assets)...
+[2018.04.13-22.37.11:821][108]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_RedPlastic.M_RedPlastic]
+[2018.04.13-22.37.11:821][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_RedPlastic]
+[2018.04.13-22.37.11:840][108]LogSavePackage: Save=16.89ms
+[2018.04.13-22.37.11:840][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_RedPlastic_Auto187AEBD614EDCA9B14CD89DB969D77B6E.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_RedPlastic_Auto1.uasset'
+[2018.04.13-22.37.11:841][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_RedPlastic_Auto1.uasset
+[2018.04.13-22.37.11:842][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/BottomCabinetsandCounter2_Box007] ([1] browsable assets)...
+[2018.04.13-22.37.11:855][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/BottomCabinetsandCounter2_Box007.BottomCabinetsandCounter2_Box007]
+[2018.04.13-22.37.11:855][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/BottomCabinetsandCounter2_Box007]
+[2018.04.13-22.37.11:884][108]LogSavePackage: Save=15.94ms
+[2018.04.13-22.37.11:885][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/BottomCabinetsandCounter2_Box0070CCD575E425B114A67D3E38A2C64DC31.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter2_Box007_Auto1.uasset'
+[2018.04.13-22.37.11:886][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter2_Box007_Auto1.uasset
+[2018.04.13-22.37.11:887][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/BottomCabinetsandCounter2_Cylinder001] ([1] browsable assets)...
+[2018.04.13-22.37.11:900][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/BottomCabinetsandCounter2_Cylinder001.BottomCabinetsandCounter2_Cylinder001]
+[2018.04.13-22.37.11:900][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/BottomCabinetsandCounter2_Cylinder001]
+[2018.04.13-22.37.11:933][108]LogSavePackage: Save=17.21ms
+[2018.04.13-22.37.11:933][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/BottomCabinetsandCounter2_Cylind360CBF1F461D0D83E65016A2F9286ED4.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter2_Cylinder001_Auto1.uasset'
+[2018.04.13-22.37.11:935][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter2_Cylinder001_Auto1.uasset
+[2018.04.13-22.37.11:936][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/BottomCabinetsandCounter2_pCube7] ([1] browsable assets)...
+[2018.04.13-22.37.11:954][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/BottomCabinetsandCounter2_pCube7.BottomCabinetsandCounter2_pCube7]
+[2018.04.13-22.37.11:955][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/BottomCabinetsandCounter2_pCube7]
+[2018.04.13-22.37.11:981][108]LogSavePackage: Save=14.66ms
+[2018.04.13-22.37.11:981][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/BottomCabinetsandCounter2_pCube7EC8243454CFFBFCFFF6EE089914D032B.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter2_pCube7_Auto1.uasset'
+[2018.04.13-22.37.11:983][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter2_pCube7_Auto1.uasset
+[2018.04.13-22.37.11:984][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/BottomCabinetsandCounter3_MainCounterTop1] ([1] browsable assets)...
+[2018.04.13-22.37.11:996][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/BottomCabinetsandCounter3_MainCounterTop1.BottomCabinetsandCounter3_MainCounterTop1]
+[2018.04.13-22.37.11:996][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/BottomCabinetsandCounter3_MainCounterTop1]
+[2018.04.13-22.37.12:022][108]LogSavePackage: Save=14.81ms
+[2018.04.13-22.37.12:022][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/BottomCabinetsandCounter3_MainCo620AB1404E2A80679D04F7BB9DDDB064.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter3_MainCounterTop1_Auto1.uasset'
+[2018.04.13-22.37.12:024][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/BottomCabinetsandCounter3_MainCounterTop1_Auto1.uasset
+[2018.04.13-22.37.12:026][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/CounterStuff1_Screen4] ([1] browsable assets)...
+[2018.04.13-22.37.12:039][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/CounterStuff1_Screen4.CounterStuff1_Screen4]
+[2018.04.13-22.37.12:039][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CounterStuff1_Screen4]
+[2018.04.13-22.37.12:065][108]LogSavePackage: Save=14.91ms
+[2018.04.13-22.37.12:065][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/CounterStuff1_Screen4_Auto17A0B5F8F4A48B23F72295DBC8C8B8C3A.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff1_Screen4_Auto1.uasset'
+[2018.04.13-22.37.12:066][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff1_Screen4_Auto1.uasset
+[2018.04.13-22.37.12:068][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_YellowPlastic] ([1] browsable assets)...
+[2018.04.13-22.37.12:081][108]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_YellowPlastic.M_YellowPlastic]
+[2018.04.13-22.37.12:081][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_YellowPlastic]
+[2018.04.13-22.37.12:101][108]LogSavePackage: Save=18.01ms
+[2018.04.13-22.37.12:101][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_YellowPlastic_Auto137D5F5B148844E9C0ADEBB89AA39D032.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_YellowPlastic_Auto1.uasset'
+[2018.04.13-22.37.12:103][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_YellowPlastic_Auto1.uasset
+[2018.04.13-22.37.12:104][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/CounterStuff2_Screen3] ([1] browsable assets)...
+[2018.04.13-22.37.12:119][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/CounterStuff2_Screen3.CounterStuff2_Screen3]
+[2018.04.13-22.37.12:119][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CounterStuff2_Screen3]
+[2018.04.13-22.37.12:148][108]LogSavePackage: Save=15.44ms
+[2018.04.13-22.37.12:148][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/CounterStuff2_Screen3_Auto19B69831F4B175EC0666A238337EFE0EA.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff2_Screen3_Auto1.uasset'
+[2018.04.13-22.37.12:149][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff2_Screen3_Auto1.uasset
+[2018.04.13-22.37.12:151][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/CounterStuff3_Screen1] ([1] browsable assets)...
+[2018.04.13-22.37.12:164][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/CounterStuff3_Screen1.CounterStuff3_Screen1]
+[2018.04.13-22.37.12:164][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CounterStuff3_Screen1]
+[2018.04.13-22.37.12:195][108]LogSavePackage: Save=18.69ms
+[2018.04.13-22.37.12:195][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/CounterStuff3_Screen1_Auto14C085FB74B32974595995AACC87DC9B6.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff3_Screen1_Auto1.uasset'
+[2018.04.13-22.37.12:196][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff3_Screen1_Auto1.uasset
+[2018.04.13-22.37.12:197][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/CounterStuff5_Screen2] ([1] browsable assets)...
+[2018.04.13-22.37.12:213][108]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/CounterStuff5_Screen2.CounterStuff5_Screen2]
+[2018.04.13-22.37.12:213][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CounterStuff5_Screen2]
+[2018.04.13-22.37.12:243][108]LogSavePackage: Save=17.00ms
+[2018.04.13-22.37.12:243][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/CounterStuff5_Screen2_Auto18C32D8464F156B47B18A499E4311BD4B.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff5_Screen2_Auto1.uasset'
+[2018.04.13-22.37.12:245][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Meshes/CounterStuff5_Screen2_Auto1.uasset
+[2018.04.13-22.37.12:246][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_BluePlastic] ([1] browsable assets)...
+[2018.04.13-22.37.12:259][108]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_BluePlastic.M_BluePlastic]
+[2018.04.13-22.37.12:259][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_BluePlastic]
+[2018.04.13-22.37.12:295][108]LogSavePackage: Save=20.37ms
+[2018.04.13-22.37.12:295][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_BluePlastic_Auto14B7BD0184C42F85ECF8B9290A8C5A727.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_BluePlastic_Auto1.uasset'
+[2018.04.13-22.37.12:296][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_BluePlastic_Auto1.uasset
+[2018.04.13-22.37.12:298][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_GreenPlastic] ([1] browsable assets)...
+[2018.04.13-22.37.12:310][108]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_GreenPlastic.M_GreenPlastic]
+[2018.04.13-22.37.12:310][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_GreenPlastic]
+[2018.04.13-22.37.12:331][108]LogSavePackage: Save=18.20ms
+[2018.04.13-22.37.12:331][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_GreenPlastic_Auto10C6FDFA24D2FAA0372E247AA8B13FDF2.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_GreenPlastic_Auto1.uasset'
+[2018.04.13-22.37.12:333][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_GreenPlastic_Auto1.uasset
+[2018.04.13-22.37.12:334][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Walls] ([1] browsable assets)...
+[2018.04.13-22.37.12:364][108]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Walls.M_Walls]
+[2018.04.13-22.37.12:364][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Walls]
+[2018.04.13-22.37.12:382][108]LogSavePackage: Save=15.67ms
+[2018.04.13-22.37.12:382][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_Walls_Auto1F746F3C449FEBCF22FC8A99CC35D2702.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_Walls_Auto1.uasset'
+[2018.04.13-22.37.12:384][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_Walls_Auto1.uasset
+[2018.04.13-22.37.12:385][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_FumeHood] ([1] browsable assets)...
+[2018.04.13-22.37.12:398][108]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_FumeHood.M_FumeHood]
+[2018.04.13-22.37.12:398][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_FumeHood]
+[2018.04.13-22.37.12:415][108]LogSavePackage: Save=14.48ms
+[2018.04.13-22.37.12:416][108]LogSavePackage: Moving '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/M_FumeHood_Auto12029829542E266A1563B47B6079502EB.tmp' to '../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_FumeHood_Auto1.uasset'
+[2018.04.13-22.37.12:417][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Patrick I Critz/Documents/Unreal Projects/FireAndIce/Saved/Autosaves/Game/Materials/M_FumeHood_Auto1.uasset
+[2018.04.13-22.37.12:417][108]LogFileHelpers: Auto-saving content packages took 0.682
+[2018.04.13-22.48.58:514][227]LogInit: XAudio2 using 'Headset Earphone (2- Corsair VOID RGB Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
