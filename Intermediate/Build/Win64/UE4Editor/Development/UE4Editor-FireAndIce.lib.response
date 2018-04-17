@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FireAndIce.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\FireAndIce.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformAppearing.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformBase.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformMoving.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\FireAndIce.init.gen.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformAppearing.gen.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformBase.gen.cpp.obj"
+"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformMoving.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.lib"
