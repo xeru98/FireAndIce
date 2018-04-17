@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Components/BoxComponent.h"
 #include "PlatformBase.generated.h"
 
 UCLASS()
@@ -21,6 +22,12 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Scene")
 	class USceneComponent* Origin;
 
+	UPROPERTY(VisibleDefaultsOnly, Category = "Collision")
+	class UBoxComponent* OverlapCollision;
+
+	UPROPERTY(VisibleDefaultsOnly, Category = "Collision")
+	UBoxComponent* BlockCollision;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -29,8 +36,8 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	UFUNCTION()
-	void BeginOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, int32 OtherBodyIndex, bool bFromSweep, const FHitResult &SweepResult);
+	UFUNCTION(BlueprintCallable)
+	void BeginOverlap(AActor* OtherActor);
 	
 	
 };

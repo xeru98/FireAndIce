@@ -4,7 +4,6 @@
 #include "Runtime/Core/Public/Math/Vector.h"
 
 APlatformMoving::APlatformMoving() {
-	MeshComponent->OnComponentBeginOverlap.AddDynamic(this, &APlatformBase::BeginOverlap);
 
 	Destination = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Destination"));
 	Destination->AttachTo(Origin);
@@ -39,9 +38,9 @@ void APlatformMoving::Tick(float DeltaTime)
 
 		Path.Normalize();
 
-		FVector Movement = Path * DeltaMovement;
+		Path = Path * DeltaMovement;
 
-		MeshComponent->SetWorldLocation(MeshLocation + Movement);
+		MeshComponent->SetWorldLocation(MeshLocation + Path);
 
 		if (Distance <= DeltaMovement) {
 			IsMovingForward = !IsMovingForward;
@@ -50,17 +49,18 @@ void APlatformMoving::Tick(float DeltaTime)
 
 }
 
-void APlatformMoving::BeginOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, int32 OtherBodyIndex, bool bFromSweep, const FHitResult &SweepResult) {
-	if (OtherActor->ActorHasTag(FName("Projectile"))) {
+void APlatformMoving::BeginOverlap(AActor* OtherActor) {
 
+	if (IsFreezable) {
 		if (OtherActor->ActorHasTag(FName("Projectile_Fire"))) {
 			IsMoving = true;
-		} else if (OtherActor->ActorHasTag(FName("Projectile_Ice"))) {
+		}
+		else if (OtherActor->ActorHasTag(FName("Projectile_Ice"))) {
 			IsMoving = false;
 		}
-
-		OtherActor->Destroy();
 	}
+
+	Super::BeginOverlap(OtherActor);
 }
 
 

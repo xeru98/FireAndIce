@@ -14,9 +14,14 @@ APlatformBase::APlatformBase()
 	
 	MeshComponent = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Mesh"));
 	MeshComponent->AttachTo(Origin);
-	MeshComponent->OnComponentBeginOverlap.AddDynamic(this, &APlatformBase::BeginOverlap);
 
 	this->Tags.Add(FName("Platform"));
+
+	OverlapCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Overlap Collision"));
+	OverlapCollision->AttachTo(MeshComponent);
+
+	BlockCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Blocking Collision"));
+	BlockCollision->AttachTo(MeshComponent);
 }
 
 // Called when the game starts or when spawned
@@ -33,7 +38,8 @@ void APlatformBase::Tick(float DeltaTime)
 
 }
 
-void APlatformBase::BeginOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, int32 OtherBodyIndex, bool bFromSweep, const FHitResult &SweepResult) {
+void APlatformBase::BeginOverlap(AActor* OtherActor) {
+
 	if (OtherActor->ActorHasTag(FName("Projectile"))) {
 		OtherActor->Destroy();
 	}
