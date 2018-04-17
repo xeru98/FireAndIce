@@ -1,0 +1,50 @@
+﻿  Cleaning FireAndIceEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for FireAndIceEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for FireAndIceEditor
+    Running UnrealHeaderTool "F:\Libraries\Documents\Unreal Projects\FireAndIce\FireAndIce.uproject" "F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIceEditor\Development\FireAndIceEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FireAndIceEditor in 7.4427442 seconds
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-1629.dll".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-1629.pdb".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-3750.dll".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-3750.pdb".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-6671.dll".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-6671.pdb".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-6841.dll".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-6841.pdb".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-9087.dll".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-9087.pdb".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-9968.dll".
+  Deleting old hot reload file: "F:\Libraries\Documents\Unreal Projects\FireAndIce\Binaries\Win64\UE4Editor-FireAndIce-9968.pdb".
+  Performing 17 actions (4 in parallel)
+  [2/17] Resource PCLaunch.rc
+  [3/17] Resource ModuleVersionResource.rc.inl
+  SharedPCH.Engine.cpp
+  GM_Menu_FireandIce.cpp
+  FireAndIce.init.gen.cpp
+  PC_Menu_FireandIce.cpp
+  FireAndIce.cpp
+  PlatformBase.cpp
+  PlatformAppearing.cpp
+F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\PlatformBase.cpp(16): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641): note: see declaration of 'USceneComponent::AttachTo'
+F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\PlatformBase.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641): note: see declaration of 'USceneComponent::AttachTo'
+F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\PlatformBase.cpp(24): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641): note: see declaration of 'USceneComponent::AttachTo'
+  PlatformMoving.cpp
+F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\PlatformMoving.cpp(9): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641): note: see declaration of 'USceneComponent::AttachTo'
+  GM_Menu_FireandIce.gen.cpp
+  PC_Menu_FireandIce.gen.cpp
+  PlatformAppearing.gen.cpp
+  PlatformBase.gen.cpp
+  PlatformMoving.gen.cpp
+  [16/17] Link UE4Editor-FireAndIce.dll
+  [17/17] Link UE4Editor-FireAndIce.lib
+     Creating library F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.suppressed.lib and object F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.suppressed.exp
+     Creating library F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.lib and object F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.exp
+  Deploying FireAndIceEditor Win64 Development...
+  Total build time: 37.95 seconds (Local executor: 24.82 seconds)

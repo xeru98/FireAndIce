@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FireAndIce.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4B83074F-C5F2-4D39-8654-4EAEA5AC404D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FireAndIce.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FireAndIceEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{15CA5A1A-1A59-4357-BB5C-9D28CCB63F99}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FireAndIce">
+			<UniqueIdentifier>{570CB9D1-F876-40C8-B83D-23C29FBB1CB9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FireAndIce\FireAndIce.Build.cs">
+			<Filter>Source\FireAndIce</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FireAndIce\FireAndIce.cpp">
+			<Filter>Source\FireAndIce</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FireAndIce\FireAndIce.h">
+			<Filter>Source\FireAndIce</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FireAndIce\GM_Menu_FireandIce.cpp">
+			<Filter>Source\FireAndIce</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FireAndIce\GM_Menu_FireandIce.h">
+			<Filter>Source\FireAndIce</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FireAndIce\PC_Menu_FireandIce.cpp">
+			<Filter>Source\FireAndIce</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FireAndIce\PC_Menu_FireandIce.h">
+			<Filter>Source\FireAndIce</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FireAndIce\PlatformAppearing.cpp">
+			<Filter>Source\FireAndIce</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FireAndIce\PlatformAppearing.h">
+			<Filter>Source\FireAndIce</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FireAndIce\PlatformBase.cpp">
+			<Filter>Source\FireAndIce</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FireAndIce\PlatformBase.h">
+			<Filter>Source\FireAndIce</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FireAndIce\PlatformMoving.cpp">
+			<Filter>Source\FireAndIce</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FireAndIce\PlatformMoving.h">
+			<Filter>Source\FireAndIce</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

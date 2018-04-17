@@ -1,0 +1,1210 @@
+﻿Log file open, 04/16/18 22:09:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FireAndIce
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2058007714) SRandInit(2058007714).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178502
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-FireAndIce.dll
+Running F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FireAndIce Development Win64 -project="F:/Libraries/Documents/Unreal Projects/FireAndIce/FireAndIce.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Performing full C++ include scan (building a new target)
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for FireAndIce (no existing makefile)
+@progress push 5%
+Parsing headers for FireAndIceEditor
+  Running UnrealHeaderTool "F:\Libraries\Documents\Unreal Projects\FireAndIce\FireAndIce.uproject" "F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIceEditor\Development\FireAndIceEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for FireAndIceEditor in 8.8214938 seconds
+@progress pop
+Performing 13 actions (4 in parallel)
+[2/13] Resource ModuleVersionResource.rc.inl
+[3/13] Resource PCLaunch.rc
+SharedPCH.Engine.cpp
+PlatformMoving.cpp
+PlatformAppearing.cpp
+F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\PlatformMoving.cpp(10): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641): note: see declaration of 'USceneComponent::AttachTo'
+PlatformBase.cpp
+F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\PlatformBase.cpp(16): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641): note: see declaration of 'USceneComponent::AttachTo'
+FireAndIce.cpp
+FireAndIce.init.gen.cpp
+PlatformAppearing.gen.cpp
+PlatformBase.gen.cpp
+PlatformMoving.gen.cpp
+[12/13] Link UE4Editor-FireAndIce.dll
+[13/13] Link UE4Editor-FireAndIce.lib
+   Creating library F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.lib and object F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.exp
+   Creating library F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.suppressed.lib and object F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce.suppressed.exp
+Total build time: 88.42 seconds (Local executor: 26.90 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Binaries/Win64/UE4Editor-FireAndIce.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.17-02.11.28:887][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-02.11.28:887][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.17-02.11.28:900][  0]LogInit: Computer: DESKTOP-G35N18L
+[2018.04.17-02.11.28:900][  0]LogInit: User: Aidan
+[2018.04.17-02.11.28:900][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.17-02.11.28:900][  0]LogInit: High frequency timer resolution =3.421876 MHz
+[2018.04.17-02.11.28:900][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.04.17-02.11.28:900][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.17-02.11.28:900][  0]LogMemory: Process Physical Memory: 279.62 MB used, 279.62 MB peak
+[2018.04.17-02.11.28:900][  0]LogMemory: Process Virtual Memory: 264.79 MB used, 264.79 MB peak
+[2018.04.17-02.11.28:900][  0]LogMemory: Physical Memory: 14322.23 MB used,  18384.80 MB free, 32707.03 MB total
+[2018.04.17-02.11.28:900][  0]LogMemory: Virtual Memory: 721.85 MB used,  18384.80 MB free, 134217728.00 MB total
+[2018.04.17-02.11.29:034][  0]LogInit: Using OS detected language (en-US).
+[2018.04.17-02.11.29:035][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.17-02.11.29:039][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.17-02.11.29:406][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.17-02.11.29:727][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.17-02.11.29:764][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.04.17-02.11.29:764][  0]LogD3D11RHI:       8086/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.17-02.11.29:766][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.17-02.11.29:766][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.17-02.11.29:766][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.17-02.11.29:775][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.17-02.11.29:775][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.17-02.11.29:775][  0]LogWindows: EnumDisplayDevices:
+[2018.04.17-02.11.29:775][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.04.17-02.11.29:776][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-02.11.29:776][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-02.11.29:776][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.04.17-02.11.29:776][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.17-02.11.29:776][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.04.17-02.11.29:776][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.17-02.11.29:776][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.17-02.11.29:776][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.04.17-02.11.29:796][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.17-02.11.29:816][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.17-02.11.29:859][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Intermediate/Shaders/WorkingDirectory/13448/).
+[2018.04.17-02.11.29:859][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aidan/AppData/Local/Temp/UnrealShaderWorkingDir/8DE1AAF44EC1EEDEBB5ABF862F54FA80/'.
+[2018.04.17-02.11.29:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.17-02.11.30:687][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.17-02.11.30:737][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.17-02.11.30:799][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.17-02.11.30:851][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.17-02.11.30:904][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.17-02.11.30:956][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.17-02.11.31:006][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.17-02.11.31:053][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.17-02.11.31:095][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.17-02.11.31:141][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.17-02.11.31:189][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.17-02.11.31:235][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.17-02.11.31:281][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.17-02.11.31:327][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.17-02.11.31:432][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.17-02.11.31:432][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.17-02.11.31:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.17-02.11.31:520][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.17-02.11.31:609][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.17-02.11.31:637][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.17-02.11.31:706][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.17-02.11.31:771][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.17-02.11.31:833][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.17-02.11.31:893][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.17-02.11.31:893][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.17-02.11.32:367][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.17-02.11.32:435][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Aidan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.17-02.11.32:435][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aidan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.17-02.11.32:435][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.17-02.11.32:435][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.17-02.11.32:435][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.17-02.11.32:435][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.17-02.11.32:452][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.17-02.11.32:463][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aidan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.17-02.11.32:473][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.17-02.11.32:473][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.17-02.11.32:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-02.11.32:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.17-02.11.32:866][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.17-02.11.33:208][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.17-02.11.33:250][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.17-02.11.33:250][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.17-02.11.33:250][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.17-02.11.33:250][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.17-02.11.33:250][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.17-02.11.33:286][  0]LogNetVersion: FireAndIce , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1331801379)
+[2018.04.17-02.11.33:450][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.04.17-02.11.34:028][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.085517 seconds
+[2018.04.17-02.11.34:034][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.17-02.11.34:034][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.17-02.11.34:034][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.17-02.11.34:081][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.17-02.11.37:449][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.17-02.11.37:495][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.17-02.11.38:693][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.588 s
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: 
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 509]
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: 
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: Stack: 
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000027302786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x00000000270A123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x00000000270BB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008642703 UE4Editor-FireAndIce.dll!TMulticastScriptDelegate<FWeakObjectPtr>::AddInternal() [f:\program files\epic games\ue_4.18\engine\source\runtime\core\public\uobject\scriptdelegates.h:509]
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008642FA9 UE4Editor-FireAndIce.dll!APlatformMoving::APlatformMoving() [f:\libraries\documents\unreal projects\fireandice\source\fireandice\platformmoving.cpp:9]
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x000000003E3105CD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x000000003E5891B0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x000000003E56B41F UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x000000003E312547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000026F3E6C0 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000027192282 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000069F8F60D UE4Editor-Projects.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000069F8F91E UE4Editor-Projects.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008F87F71 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008F8C4EC UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008F8525A UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008F854AA UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008F92379 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000008F93D57 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x0000000079D21FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: [Callstack] 0x000000007C22EFC1 ntdll.dll!UnknownFunction []
+[2018.04.17-02.11.38:693][  0]LogOutputDevice: Error: 
+[2018.04.17-02.11.38:697][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.17-02.11.42:180][  0]LogStats:                    SendNewReport -  3.483 s
+[2018.04.17-02.11.42:180][  0]LogStats:             FDebug::EnsureFailed -  4.076 s
+[2018.04.17-02.11.42:482][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.17-02.11.43:099][  0]SourceControl: Source control is disabled
+[2018.04.17-02.11.44:963][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.17-02.11.45:346][  0]LogOcInput: OculusInput pre-init called
+[2018.04.17-02.11.45:624][  0]LogEngine: Initializing Engine...
+[2018.04.17-02.11.45:626][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.17-02.11.45:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.17-02.11.45:826][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.17-02.11.45:961][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.17-02.11.45:970][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.04.17-02.11.45:988][  0]LogInit: FAudioDevice initialized.
+[2018.04.17-02.11.46:068][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Aidan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.17-02.11.46:078][  0]LogInit: Texture streaming: Enabled
+[2018.04.17-02.11.46:165][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.17-02.11.46:301][  0]LogInit: Transaction tracking system initialized
+[2018.04.17-02.11.46:623][  0]BlueprintLog: New page: Editor Load
+[2018.04.17-02.11.47:443][  0]LocalizationService: Localization service is disabled
+[2018.04.17-02.11.48:152][  0]LogConsoleResponse: Display: 
+[2018.04.17-02.11.48:297][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.17-02.11.48:297][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.17-02.11.48:297][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.17-02.11.48:995][  0]LogFileCache: Scanning file cache for directory 'F:/Libraries/Documents/Unreal Projects/FireAndIce/Content/' took 0.02s
+[2018.04.17-02.11.49:486][  0]Cmd: MAP LOAD FILE="../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Maps/LV_LabRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.17-02.11.49:487][  0]LightingResults: New page: Lighting Build
+[2018.04.17-02.11.49:542][  0]MapCheck: New page: Map Check
+[2018.04.17-02.11.49:542][  0]LightingResults: New page: Lighting Build
+[2018.04.17-02.11.49:716][  0]LogLinker: Warning: Can't find file '/Game/Maps/LV_LabRoom_BuiltData'
+[2018.04.17-02.11.49:717][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/LV_LabRoom_BuiltData' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Maps/LV_LabRoom.umap.
+[2018.04.17-02.11.49:717][  0]LoadErrors: Error: /Game/Maps/LV_LabRoom : Can't find file for asset. /Game/Maps/LV_LabRoom_BuiltData
+[2018.04.17-02.11.49:769][  0]LogLinker: Warning: Can't find file '/Game/Maps/LV_LabRoom_BuiltData'
+[2018.04.17-02.11.49:769][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/LV_LabRoom_BuiltData' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Maps/LV_LabRoom.umap.
+[2018.04.17-02.11.49:769][  0]LoadErrors: Error: /Game/Maps/LV_LabRoom : Can't find file for asset. /Game/Maps/LV_LabRoom_BuiltData
+[2018.04.17-02.11.49:772][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:772][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/BottomCabinetsandCounter1_Box003.uasset.
+[2018.04.17-02.11.49:772][  0]LoadErrors: Error: /Game/Meshes/BottomCabinetsandCounter1_Box003 : Can't find file for asset. /Game/Meshes/WoodenCabinet
+[2018.04.17-02.11.49:772][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:773][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/BottomCabinetsandCounter1_Box003.uasset.
+[2018.04.17-02.11.49:773][  0]LoadErrors: Error: /Game/Meshes/BottomCabinetsandCounter1_Box003 : Can't find file for asset. /Game/Meshes/WoodenCabinet
+[2018.04.17-02.11.49:779][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:779][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/BottomCabinetsandCounter3_Box011.uasset.
+[2018.04.17-02.11.49:779][  0]LoadErrors: Error: /Game/Meshes/BottomCabinetsandCounter3_Box011 : Can't find file for asset. /Game/Meshes/WoodenCabinet
+[2018.04.17-02.11.49:779][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:779][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/BottomCabinetsandCounter3_Box011.uasset.
+[2018.04.17-02.11.49:779][  0]LoadErrors: Error: /Game/Meshes/BottomCabinetsandCounter3_Box011 : Can't find file for asset. /Game/Meshes/WoodenCabinet
+[2018.04.17-02.11.49:782][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:782][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube17.uasset.
+[2018.04.17-02.11.49:782][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube17 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:782][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:783][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube17.uasset.
+[2018.04.17-02.11.49:783][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube17 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:783][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:783][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube17.uasset.
+[2018.04.17-02.11.49:783][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube17 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:783][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:783][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube17.uasset.
+[2018.04.17-02.11.49:783][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube17 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:784][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:784][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube18.uasset.
+[2018.04.17-02.11.49:784][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube18 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:784][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:784][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube18.uasset.
+[2018.04.17-02.11.49:784][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube18 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:785][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:785][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube18.uasset.
+[2018.04.17-02.11.49:785][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube18 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:785][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:785][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube18.uasset.
+[2018.04.17-02.11.49:785][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube18 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube19.uasset.
+[2018.04.17-02.11.49:786][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube19 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube19.uasset.
+[2018.04.17-02.11.49:786][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube19 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube19.uasset.
+[2018.04.17-02.11.49:786][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube19 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:786][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:787][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube19.uasset.
+[2018.04.17-02.11.49:787][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube19 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:788][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:788][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube20.uasset.
+[2018.04.17-02.11.49:788][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube20 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:788][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:788][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube20.uasset.
+[2018.04.17-02.11.49:788][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube20 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:788][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:788][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube20.uasset.
+[2018.04.17-02.11.49:789][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube20 : Can't find file for asset. /Game/Meshes/aiStandardSurface7
+[2018.04.17-02.11.49:789][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:789][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Chairs_pCube20.uasset.
+[2018.04.17-02.11.49:789][  0]LoadErrors: Error: /Game/Meshes/Chairs_pCube20 : Can't find file for asset. /Game/Meshes/ChairMat
+[2018.04.17-02.11.49:790][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:790][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff1_pCylinder6.uasset.
+[2018.04.17-02.11.49:791][  0]LoadErrors: Error: /Game/Meshes/CounterStuff1_pCylinder6 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:791][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:791][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff1_pCylinder6.uasset.
+[2018.04.17-02.11.49:791][  0]LoadErrors: Error: /Game/Meshes/CounterStuff1_pCylinder6 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:793][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:793][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff2_pCube6.uasset.
+[2018.04.17-02.11.49:793][  0]LoadErrors: Error: /Game/Meshes/CounterStuff2_pCube6 : Can't find file for asset. /Game/Meshes/aiStandardSurface1
+[2018.04.17-02.11.49:793][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:793][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff2_pCube6.uasset.
+[2018.04.17-02.11.49:793][  0]LoadErrors: Error: /Game/Meshes/CounterStuff2_pCube6 : Can't find file for asset. /Game/Meshes/aiStandardSurface3
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff2_pCube6.uasset.
+[2018.04.17-02.11.49:794][  0]LoadErrors: Error: /Game/Meshes/CounterStuff2_pCube6 : Can't find file for asset. /Game/Meshes/Glass1
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff2_pCube6.uasset.
+[2018.04.17-02.11.49:794][  0]LoadErrors: Error: /Game/Meshes/CounterStuff2_pCube6 : Can't find file for asset. /Game/Meshes/aiStandardSurface1
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff2_pCube6.uasset.
+[2018.04.17-02.11.49:794][  0]LoadErrors: Error: /Game/Meshes/CounterStuff2_pCube6 : Can't find file for asset. /Game/Meshes/aiStandardSurface3
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:794][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff2_pCube6.uasset.
+[2018.04.17-02.11.49:794][  0]LoadErrors: Error: /Game/Meshes/CounterStuff2_pCube6 : Can't find file for asset. /Game/Meshes/Glass1
+[2018.04.17-02.11.49:797][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:797][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff3_pCylinder5.uasset.
+[2018.04.17-02.11.49:797][  0]LoadErrors: Error: /Game/Meshes/CounterStuff3_pCylinder5 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:797][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:797][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff3_pCylinder5.uasset.
+[2018.04.17-02.11.49:797][  0]LoadErrors: Error: /Game/Meshes/CounterStuff3_pCylinder5 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube4.uasset.
+[2018.04.17-02.11.49:800][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube4 : Can't find file for asset. /Game/Meshes/aiStandardSurface1
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube4.uasset.
+[2018.04.17-02.11.49:800][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube4 : Can't find file for asset. /Game/Meshes/aiStandardSurface3
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube4.uasset.
+[2018.04.17-02.11.49:800][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube4 : Can't find file for asset. /Game/Meshes/Glass1
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube4.uasset.
+[2018.04.17-02.11.49:800][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube4 : Can't find file for asset. /Game/Meshes/aiStandardSurface1
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:800][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube4.uasset.
+[2018.04.17-02.11.49:800][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube4 : Can't find file for asset. /Game/Meshes/aiStandardSurface3
+[2018.04.17-02.11.49:801][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:801][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube4.uasset.
+[2018.04.17-02.11.49:801][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube4 : Can't find file for asset. /Game/Meshes/Glass1
+[2018.04.17-02.11.49:802][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:802][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube5.uasset.
+[2018.04.17-02.11.49:802][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube5 : Can't find file for asset. /Game/Meshes/aiStandardSurface1
+[2018.04.17-02.11.49:802][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:802][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube5.uasset.
+[2018.04.17-02.11.49:803][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube5 : Can't find file for asset. /Game/Meshes/aiStandardSurface3
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube5.uasset.
+[2018.04.17-02.11.49:803][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube5 : Can't find file for asset. /Game/Meshes/Glass1
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube5.uasset.
+[2018.04.17-02.11.49:803][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube5 : Can't find file for asset. /Game/Meshes/aiStandardSurface1
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube5.uasset.
+[2018.04.17-02.11.49:803][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube5 : Can't find file for asset. /Game/Meshes/aiStandardSurface3
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:803][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCube5.uasset.
+[2018.04.17-02.11.49:804][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCube5 : Can't find file for asset. /Game/Meshes/Glass1
+[2018.04.17-02.11.49:805][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:805][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCylinder3.uasset.
+[2018.04.17-02.11.49:805][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCylinder3 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:805][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:805][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCylinder3.uasset.
+[2018.04.17-02.11.49:805][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCylinder3 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:806][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:806][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCylinder4.uasset.
+[2018.04.17-02.11.49:806][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCylinder4 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:806][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:806][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/CounterStuff4_pCylinder4.uasset.
+[2018.04.17-02.11.49:806][  0]LoadErrors: Error: /Game/Meshes/CounterStuff4_pCylinder4 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:809][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:809][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/GlassWallThing_Glass_Case.uasset.
+[2018.04.17-02.11.49:809][  0]LoadErrors: Error: /Game/Meshes/GlassWallThing_Glass_Case : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:809][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:809][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/GlassWallThing_Glass_Case.uasset.
+[2018.04.17-02.11.49:809][  0]LoadErrors: Error: /Game/Meshes/GlassWallThing_Glass_Case : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:810][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:810][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube30.uasset.
+[2018.04.17-02.11.49:810][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube30 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:810][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:810][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube30.uasset.
+[2018.04.17-02.11.49:810][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube30 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:811][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:812][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube32.uasset.
+[2018.04.17-02.11.49:812][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube32 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:812][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:812][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube32.uasset.
+[2018.04.17-02.11.49:812][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube32 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:813][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:813][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube33.uasset.
+[2018.04.17-02.11.49:813][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube33 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:813][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:813][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube33.uasset.
+[2018.04.17-02.11.49:813][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube33 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:814][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:814][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube34.uasset.
+[2018.04.17-02.11.49:814][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube34 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:814][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:814][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube34.uasset.
+[2018.04.17-02.11.49:814][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube34 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:816][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:816][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube35.uasset.
+[2018.04.17-02.11.49:816][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube35 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:816][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:816][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube35.uasset.
+[2018.04.17-02.11.49:816][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube35 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:817][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:817][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube36.uasset.
+[2018.04.17-02.11.49:817][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube36 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:817][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:818][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube36.uasset.
+[2018.04.17-02.11.49:818][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube36 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:819][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:819][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube37.uasset.
+[2018.04.17-02.11.49:819][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube37 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:819][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:819][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube37.uasset.
+[2018.04.17-02.11.49:819][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube37 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:820][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:820][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube38.uasset.
+[2018.04.17-02.11.49:820][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube38 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:820][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:821][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Lights_pCube38.uasset.
+[2018.04.17-02.11.49:821][  0]LoadErrors: Error: /Game/Meshes/Lights_pCube38 : Can't find file for asset. /Game/Meshes/WhitePlastic
+[2018.04.17-02.11.49:822][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:822][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Roof_Object001.uasset.
+[2018.04.17-02.11.49:822][  0]LoadErrors: Error: /Game/Meshes/Roof_Object001 : Can't find file for asset. /Game/Meshes/lambert1
+[2018.04.17-02.11.49:822][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:822][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Roof_Object001.uasset.
+[2018.04.17-02.11.49:822][  0]LoadErrors: Error: /Game/Meshes/Roof_Object001 : Can't find file for asset. /Game/Meshes/lambert1
+[2018.04.17-02.11.49:828][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:828][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TopCabinets1_Box004.uasset.
+[2018.04.17-02.11.49:828][  0]LoadErrors: Error: /Game/Meshes/TopCabinets1_Box004 : Can't find file for asset. /Game/Meshes/WoodenCabinet
+[2018.04.17-02.11.49:828][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:828][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TopCabinets1_Box004.uasset.
+[2018.04.17-02.11.49:828][  0]LoadErrors: Error: /Game/Meshes/TopCabinets1_Box004 : Can't find file for asset. /Game/Meshes/WoodenCabinet
+[2018.04.17-02.11.49:829][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:829][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins2_pCube44.uasset.
+[2018.04.17-02.11.49:829][  0]LoadErrors: Error: /Game/Meshes/TrashBins2_pCube44 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:829][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:829][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins2_pCube44.uasset.
+[2018.04.17-02.11.49:829][  0]LoadErrors: Error: /Game/Meshes/TrashBins2_pCube44 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:831][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:831][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins2_pCube45.uasset.
+[2018.04.17-02.11.49:831][  0]LoadErrors: Error: /Game/Meshes/TrashBins2_pCube45 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:831][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:831][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins2_pCube45.uasset.
+[2018.04.17-02.11.49:831][  0]LoadErrors: Error: /Game/Meshes/TrashBins2_pCube45 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:832][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:832][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins_Cylinder003.uasset.
+[2018.04.17-02.11.49:832][  0]LoadErrors: Error: /Game/Meshes/TrashBins_Cylinder003 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:832][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:833][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins_Cylinder003.uasset.
+[2018.04.17-02.11.49:833][  0]LoadErrors: Error: /Game/Meshes/TrashBins_Cylinder003 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:834][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:834][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins_Cylinder004.uasset.
+[2018.04.17-02.11.49:834][  0]LoadErrors: Error: /Game/Meshes/TrashBins_Cylinder004 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:834][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:834][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/TrashBins_Cylinder004.uasset.
+[2018.04.17-02.11.49:834][  0]LoadErrors: Error: /Game/Meshes/TrashBins_Cylinder004 : Can't find file for asset. /Game/Meshes/aiStandardSurface5
+[2018.04.17-02.11.49:836][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:836][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/WallsandFloor_Plane001.uasset.
+[2018.04.17-02.11.49:836][  0]LoadErrors: Error: /Game/Meshes/WallsandFloor_Plane001 : Can't find file for asset. /Game/Meshes/lambert1
+[2018.04.17-02.11.49:837][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:837][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/WallsandFloor_Plane001.uasset.
+[2018.04.17-02.11.49:837][  0]LoadErrors: Error: /Game/Meshes/WallsandFloor_Plane001 : Can't find file for asset. /Game/Meshes/lambert1
+[2018.04.17-02.11.49:838][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:838][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window1_pCube42.uasset.
+[2018.04.17-02.11.49:839][  0]LoadErrors: Error: /Game/Meshes/Window1_pCube42 : Can't find file for asset. /Game/Meshes/BlackMetal
+[2018.04.17-02.11.49:839][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:839][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window1_pCube42.uasset.
+[2018.04.17-02.11.49:839][  0]LoadErrors: Error: /Game/Meshes/Window1_pCube42 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:839][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:839][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window1_pCube42.uasset.
+[2018.04.17-02.11.49:839][  0]LoadErrors: Error: /Game/Meshes/Window1_pCube42 : Can't find file for asset. /Game/Meshes/BlackMetal
+[2018.04.17-02.11.49:839][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:839][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window1_pCube42.uasset.
+[2018.04.17-02.11.49:839][  0]LoadErrors: Error: /Game/Meshes/Window1_pCube42 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:840][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:840][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window2_pCube43.uasset.
+[2018.04.17-02.11.49:840][  0]LoadErrors: Error: /Game/Meshes/Window2_pCube43 : Can't find file for asset. /Game/Meshes/BlackMetal
+[2018.04.17-02.11.49:840][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:840][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window2_pCube43.uasset.
+[2018.04.17-02.11.49:840][  0]LoadErrors: Error: /Game/Meshes/Window2_pCube43 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:841][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:841][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window2_pCube43.uasset.
+[2018.04.17-02.11.49:841][  0]LoadErrors: Error: /Game/Meshes/Window2_pCube43 : Can't find file for asset. /Game/Meshes/BlackMetal
+[2018.04.17-02.11.49:841][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:841][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading ../../../../../../Libraries/Documents/Unreal Projects/FireAndIce/Content/Meshes/Window2_pCube43.uasset.
+[2018.04.17-02.11.49:841][  0]LoadErrors: Error: /Game/Meshes/Window2_pCube43 : Can't find file for asset. /Game/Meshes/Glass
+[2018.04.17-02.11.49:854][  0]LogLinker: Warning: Can't find file '/Game/Maps/LV_LabRoom_BuiltData'
+[2018.04.17-02.11.49:854][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/LV_LabRoom_BuiltData' while loading NULL.
+[2018.04.17-02.11.49:854][  0]LogLinker: Warning: Can't find file '/Game/Maps/LV_LabRoom_BuiltData'
+[2018.04.17-02.11.49:854][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/LV_LabRoom_BuiltData' while loading NULL.
+[2018.04.17-02.11.49:864][  0]LogLinker: Warning: Can't find file '/Game/Maps/LV_LabRoom_BuiltData'
+[2018.04.17-02.11.49:864][  0]LoadErrors: Failed to load /Game/Maps/LV_LabRoom_BuiltData.LV_LabRoom_BuiltData Referenced by PersistentLevel
+[2018.04.17-02.11.49:864][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/LV_LabRoom_BuiltData' while loading NULL.
+[2018.04.17-02.11.49:864][  0]LoadErrors: Failed to load /Game/Maps/LV_LabRoom_BuiltData.LV_LabRoom_BuiltData Referenced by PersistentLevel
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:869][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff1_pCylinder6
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:869][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff1_pCylinder6
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:869][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff1_pCylinder6
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:869][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff1_pCylinder6
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:869][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:869][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:869][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube20
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:870][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:870][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube19
+[2018.04.17-02.11.49:871][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:871][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:872][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:872][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:872][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:872][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:872][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:872][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:872][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:872][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:872][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:872][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:872][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:872][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube18
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface7'
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:873][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface7' while loading NULL.
+[2018.04.17-02.11.49:873][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface7.aiStandardSurface7 Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:874][  0]LogLinker: Warning: Can't find file '/Game/Meshes/ChairMat'
+[2018.04.17-02.11.49:874][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:874][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/ChairMat' while loading NULL.
+[2018.04.17-02.11.49:874][  0]LoadErrors: Failed to load /Game/Meshes/ChairMat.ChairMat Referenced by Chairs_pCube17
+[2018.04.17-02.11.49:874][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:874][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter3_Box011
+[2018.04.17-02.11.49:874][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading NULL.
+[2018.04.17-02.11.49:874][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter3_Box011
+[2018.04.17-02.11.49:874][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:874][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter3_Box011
+[2018.04.17-02.11.49:874][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading NULL.
+[2018.04.17-02.11.49:874][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter3_Box011
+[2018.04.17-02.11.49:875][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:875][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter1_Box003
+[2018.04.17-02.11.49:875][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading NULL.
+[2018.04.17-02.11.49:875][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter1_Box003
+[2018.04.17-02.11.49:875][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:875][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter1_Box003
+[2018.04.17-02.11.49:875][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading NULL.
+[2018.04.17-02.11.49:875][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by BottomCabinetsandCounter1_Box003
+[2018.04.17-02.11.49:884][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:884][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by Roof_Object001
+[2018.04.17-02.11.49:885][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading NULL.
+[2018.04.17-02.11.49:885][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by Roof_Object001
+[2018.04.17-02.11.49:885][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:885][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by Roof_Object001
+[2018.04.17-02.11.49:885][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading NULL.
+[2018.04.17-02.11.49:885][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by Roof_Object001
+[2018.04.17-02.11.49:885][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:885][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube38
+[2018.04.17-02.11.49:885][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube38
+[2018.04.17-02.11.49:886][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube38
+[2018.04.17-02.11.49:886][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube38
+[2018.04.17-02.11.49:886][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube37
+[2018.04.17-02.11.49:886][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube37
+[2018.04.17-02.11.49:886][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube37
+[2018.04.17-02.11.49:886][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:886][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube37
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:887][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube36
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:887][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube36
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:887][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube36
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:887][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube36
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:887][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube35
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:887][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube35
+[2018.04.17-02.11.49:887][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube35
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube35
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube34
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube34
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube34
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube34
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube33
+[2018.04.17-02.11.49:888][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:888][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube33
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube33
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube33
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube32
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube32
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube32
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube32
+[2018.04.17-02.11.49:889][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:889][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube30
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube30
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WhitePlastic'
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube30
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WhitePlastic' while loading NULL.
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/WhitePlastic.WhitePlastic Referenced by Lights_pCube30
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by GlassWallThing_Glass_Case
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by GlassWallThing_Glass_Case
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by GlassWallThing_Glass_Case
+[2018.04.17-02.11.49:890][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:890][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by GlassWallThing_Glass_Case
+[2018.04.17-02.11.49:891][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:891][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder4
+[2018.04.17-02.11.49:891][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:891][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder4
+[2018.04.17-02.11.49:891][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:891][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder4
+[2018.04.17-02.11.49:891][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:891][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder4
+[2018.04.17-02.11.49:891][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:891][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder3
+[2018.04.17-02.11.49:891][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:892][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder3
+[2018.04.17-02.11.49:892][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:892][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder3
+[2018.04.17-02.11.49:892][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:892][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff4_pCylinder3
+[2018.04.17-02.11.49:892][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:892][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:892][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading NULL.
+[2018.04.17-02.11.49:892][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading NULL.
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading NULL.
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading NULL.
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:893][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading NULL.
+[2018.04.17-02.11.49:893][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:894][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:894][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:894][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading NULL.
+[2018.04.17-02.11.49:894][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube5
+[2018.04.17-02.11.49:894][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:894][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:894][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading NULL.
+[2018.04.17-02.11.49:894][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:894][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:894][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:894][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading NULL.
+[2018.04.17-02.11.49:894][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading NULL.
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading NULL.
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading NULL.
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:895][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading NULL.
+[2018.04.17-02.11.49:895][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff4_pCube4
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading NULL.
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading NULL.
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window2_pCube43
+[2018.04.17-02.11.49:896][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:896][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window2_pCube43
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window1_pCube42
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading NULL.
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window1_pCube42
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window1_pCube42
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window1_pCube42
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file '/Game/Meshes/BlackMetal'
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window1_pCube42
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/BlackMetal' while loading NULL.
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/BlackMetal.BlackMetal Referenced by Window1_pCube42
+[2018.04.17-02.11.49:897][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:897][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window1_pCube42
+[2018.04.17-02.11.49:898][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:898][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by Window1_pCube42
+[2018.04.17-02.11.49:898][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:898][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by WallsandFloor_Plane001
+[2018.04.17-02.11.49:898][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading NULL.
+[2018.04.17-02.11.49:898][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by WallsandFloor_Plane001
+[2018.04.17-02.11.49:898][  0]LogLinker: Warning: Can't find file '/Game/Meshes/lambert1'
+[2018.04.17-02.11.49:899][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by WallsandFloor_Plane001
+[2018.04.17-02.11.49:899][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/lambert1' while loading NULL.
+[2018.04.17-02.11.49:899][  0]LoadErrors: Failed to load /Game/Meshes/lambert1.lambert1 Referenced by WallsandFloor_Plane001
+[2018.04.17-02.11.49:899][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:899][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder004
+[2018.04.17-02.11.49:899][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:899][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder004
+[2018.04.17-02.11.49:899][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:900][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder004
+[2018.04.17-02.11.49:900][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:900][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder004
+[2018.04.17-02.11.49:900][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:900][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder003
+[2018.04.17-02.11.49:900][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:900][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder003
+[2018.04.17-02.11.49:900][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:900][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder003
+[2018.04.17-02.11.49:900][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:900][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins_Cylinder003
+[2018.04.17-02.11.49:901][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:901][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube45
+[2018.04.17-02.11.49:901][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:901][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube45
+[2018.04.17-02.11.49:901][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:901][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube45
+[2018.04.17-02.11.49:901][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:901][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube45
+[2018.04.17-02.11.49:902][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:902][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube44
+[2018.04.17-02.11.49:902][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:902][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube44
+[2018.04.17-02.11.49:902][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface5'
+[2018.04.17-02.11.49:902][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube44
+[2018.04.17-02.11.49:902][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface5' while loading NULL.
+[2018.04.17-02.11.49:902][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface5.aiStandardSurface5 Referenced by TrashBins2_pCube44
+[2018.04.17-02.11.49:902][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:902][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by TopCabinets1_Box004
+[2018.04.17-02.11.49:902][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading NULL.
+[2018.04.17-02.11.49:903][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by TopCabinets1_Box004
+[2018.04.17-02.11.49:903][  0]LogLinker: Warning: Can't find file '/Game/Meshes/WoodenCabinet'
+[2018.04.17-02.11.49:903][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by TopCabinets1_Box004
+[2018.04.17-02.11.49:903][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/WoodenCabinet' while loading NULL.
+[2018.04.17-02.11.49:903][  0]LoadErrors: Failed to load /Game/Meshes/WoodenCabinet.WoodenCabinet Referenced by TopCabinets1_Box004
+[2018.04.17-02.11.49:903][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:903][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff3_pCylinder5
+[2018.04.17-02.11.49:903][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:903][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff3_pCylinder5
+[2018.04.17-02.11.49:903][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass'
+[2018.04.17-02.11.49:903][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff3_pCylinder5
+[2018.04.17-02.11.49:904][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass' while loading NULL.
+[2018.04.17-02.11.49:904][  0]LoadErrors: Failed to load /Game/Meshes/Glass.Glass Referenced by CounterStuff3_pCylinder5
+[2018.04.17-02.11.49:904][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:904][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:904][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading NULL.
+[2018.04.17-02.11.49:904][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:904][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading NULL.
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading NULL.
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface1'
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface1' while loading NULL.
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface1.aiStandardSurface1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file '/Game/Meshes/aiStandardSurface3'
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/aiStandardSurface3' while loading NULL.
+[2018.04.17-02.11.49:905][  0]LoadErrors: Failed to load /Game/Meshes/aiStandardSurface3.aiStandardSurface3 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:905][  0]LogLinker: Warning: Can't find file '/Game/Meshes/Glass1'
+[2018.04.17-02.11.49:906][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.49:906][  0]LogLinker: Warning: Can't find file for asset '/Game/Meshes/Glass1' while loading NULL.
+[2018.04.17-02.11.49:906][  0]LoadErrors: Failed to load /Game/Meshes/Glass1.Glass1 Referenced by CounterStuff2_pCube6
+[2018.04.17-02.11.50:139][  0]LogAIModule: Creating AISystem for world LV_LabRoom
+[2018.04.17-02.11.50:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.17-02.11.50:162][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.17-02.11.50:237][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.049ms to complete.
+[2018.04.17-02.11.50:238][  0]LogFileHelpers: Loading map 'LV_LabRoom' took 0.751
+[2018.04.17-02.11.50:387][  0]LogCollectionManager: Loaded 0 collections in 0.001107 seconds
+[2018.04.17-02.11.50:484][  0]LogFileCache: Scanning file cache for directory 'F:/Libraries/Documents/Unreal Projects/FireAndIce/Saved/Collections/' took 0.01s
+[2018.04.17-02.11.50:484][  0]LogFileCache: Scanning file cache for directory 'F:/Libraries/Documents/Unreal Projects/FireAndIce/Content/Developers/Aidan/Collections/' took 0.01s
+[2018.04.17-02.11.50:484][  0]LogFileCache: Scanning file cache for directory 'F:/Libraries/Documents/Unreal Projects/FireAndIce/Content/Collections/' took 0.01s
+[2018.04.17-02.11.50:484][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.17-02.11.50:493][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2366 classes and 521 folders.
+[2018.04.17-02.11.50:556][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.17-02.11.50:622][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.04.17-02.11.50:666][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0039 seconds. Added 1 classes and 2 folders.
+[2018.04.17-02.11.50:686][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.17-02.11.50:687][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.17-02.11.50:693][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.17-02.11.50:783][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.17-02.11.50:962][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.04.17-02.11.50:962][  0]LogLoad: (Engine Initialization) Total time: 117.33 seconds
+[2018.04.17-02.11.50:962][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.17-02.11.50:962][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.17-02.11.50:962][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.17-02.11.50:972][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.17-02.11.50:991][  0]SourceControl: On branch development
+[2018.04.17-02.11.50:991][  0]SourceControl: Your branch is up to date with 'origin/development'.
+[2018.04.17-02.11.50:991][  0]SourceControl: Changes not staged for commit:
+[2018.04.17-02.11.50:991][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.04.17-02.11.50:991][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.17-02.11.50:991][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.04.17-02.11.50:991][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.04.17-02.11.50:991][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.04.17-02.11.50:991][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.04.17-02.11.50:991][  0]SourceControl: 	modified:   Saved/Logs/FireAndIce.log
+[2018.04.17-02.11.50:991][  0]SourceControl: Untracked files:
+[2018.04.17-02.11.50:991][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Binaries/
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Intermediate/Build/
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-6C7196AE49E181AFA330568853B7B537/
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-B665EF44488067742A2B7B895C3DA777/
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-B665EF44488067742A2B7B895C3DA777_0000/
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Saved/Logs/FireAndIce-backup-2018.04.16-22.08.33.log
+[2018.04.17-02.11.50:991][  0]SourceControl: 	Saved/Logs/FireAndIce-backup-2018.04.16-22.09.54.log
+[2018.04.17-02.11.50:991][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.04.17-02.11.50:991][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.17-02.11.51:044][  0]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.17-02.11.51:081][  1]LogAssetRegistry: Asset discovery search completed in 17.6526 seconds
+[2018.04.17-02.11.51:083][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.17-02.11.51:083][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.04.17-02.11.52:006][ 95]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.17-02.12.04:307][551]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.17-02.12.04:336][551]Running F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="F:/Libraries/Documents/Unreal Projects/FireAndIce/FireAndIce.uproject" -game -rocket -progress
+[2018.04.17-02.12.04:641][551]Discovering modules, targets and source code for project...
+[2018.04.17-02.12.07:451][551]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.17-02.19.30:818][100]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.17-02.19.50:329][408]Running F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="F:/Libraries/Documents/Unreal Projects/FireAndIce/FireAndIce.uproject" -game -rocket -progress
+[2018.04.17-02.19.50:634][408]Discovering modules, targets and source code for project...
+[2018.04.17-02.19.54:916][408]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.04.17-02.19.54:980][408]Candidate modules for hot reload:
+[2018.04.17-02.19.54:980][408]  FireAndIce
+[2018.04.17-02.19.54:980][408]Launching UnrealBuildTool... [F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe FireAndIce -ModuleWithSuffix FireAndIce 9968 Win64 Development -editorrecompile -canskiplink "F:/Libraries/Documents/Unreal Projects/FireAndIce/FireAndIce.uproject" ]
+[2018.04.17-02.20.09:691][408]CompilerResultsLog: New page: Compilation - Apr 16, 2018, 6:20:09 PM
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Creating makefile for hot reloading FireAndIce (no existing makefile)
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Compiling game modules for hot reload
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Parsing headers for FireAndIceEditor
+[2018.04.17-02.20.09:709][408]CompilerResultsLog:   Running UnrealHeaderTool "F:\Libraries\Documents\Unreal Projects\FireAndIce\FireAndIce.uproject" "F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIceEditor\Development\FireAndIceEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Reflection code generated for FireAndIceEditor in 8.0565172 seconds
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: GM_Menu_FireandIce.gen.cpp
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: GM_Menu_FireandIce.cpp
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: FireAndIce.init.gen.cpp
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: [4/5] Link UE4Editor-FireAndIce-9968.dll
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: [5/5] Link UE4Editor-FireAndIce-9968.lib
+[2018.04.17-02.20.09:709][408]CompilerResultsLog:    Creating library F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce-9968.lib and object F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce-9968.exp
+[2018.04.17-02.20.09:709][408]CompilerResultsLog:    Creating library F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce-9968.suppressed.lib and object F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce-9968.suppressed.exp
+[2018.04.17-02.20.09:709][408]CompilerResultsLog: Total build time: 14.52 seconds (Local executor: 1.72 seconds)
+[2018.04.17-02.20.09:709][408]LogMainFrame: MainFrame: Module compiling took 14.794 seconds
+[2018.04.17-02.20.09:803][408]LogClass: Could not find existing class GM_Menu_FireandIce in package /Script/FireAndIce for HotReload, assuming new class
+[2018.04.17-02.20.10:229][408]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.423 s
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: 
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h] [Line: 509]
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: 
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: Stack: 
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000027302786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x00000000270A123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x00000000270BB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x00000000EEE02A83 UE4Editor-FireAndIce-9968.dll!TMulticastScriptDelegate<FWeakObjectPtr>::AddInternal() [f:\program files\epic games\ue_4.18\engine\source\runtime\core\public\uobject\scriptdelegates.h:509]
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x00000000EEE03329 UE4Editor-FireAndIce-9968.dll!APlatformMoving::APlatformMoving() [f:\libraries\documents\unreal projects\fireandice\source\fireandice\platformmoving.cpp:9]
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3A27E UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3ADDE UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C2724A UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C31C92 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3CA0B UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3CE05 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C34DE6 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x000000003E289AC5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x000000003E587D18 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x000000003E56B426 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x000000003E312547 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000026F3E6C0 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000027192282 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000027191593 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3309F UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C30434 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C30E00 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3A0B8 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C38ED7 UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000005C3873B UE4Editor-HotReload.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x00000000409CFCB5 UE4Editor-GameProjectGeneration.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x00000000409CDE9A UE4Editor-GameProjectGeneration.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000040A1C3E4 UE4Editor-GameProjectGeneration.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000040A12EC1 UE4Editor-GameProjectGeneration.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000040A15326 UE4Editor-GameProjectGeneration.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000026C2F94D UE4Editor-AppFramework.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000026A97292 UE4Editor-AppFramework.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000026A99AA9 UE4Editor-AppFramework.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000026BFE105 UE4Editor-AppFramework.dll!UnknownFunction []
+[2018.04.17-02.20.10:229][408]LogOutputDevice: Error: [Callstack] 0x0000000038652B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x000000003867EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000038495EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000038468095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000385028A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000384EB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000384DD902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000614DE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000614D1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000614E03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000614CD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000797FB85D USER32.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000797FB1EF USER32.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x00000000614E1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000008F750C8 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000008F85430 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000008F854AA UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000008F92379 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000008F93D57 UE4Editor.exe!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x0000000079D21FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: [Callstack] 0x000000007C22EFC1 ntdll.dll!UnknownFunction []
+[2018.04.17-02.20.10:230][408]LogOutputDevice: Error: 
+[2018.04.17-02.20.10:232][408]LogStats:                SubmitErrorReport -  0.000 s

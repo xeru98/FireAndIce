@@ -17,6 +17,11 @@ void EmptyLinkFunctionForGeneratedCodePlatformAppearing() {}
 	FIREANDICE_API UClass* Z_Construct_UClass_APlatformAppearing();
 	FIREANDICE_API UClass* Z_Construct_UClass_APlatformBase();
 	UPackage* Z_Construct_UPackage__Script_FireAndIce();
+<<<<<<< HEAD
+// End Cross Module References
+	void APlatformAppearing::StaticRegisterNativesAPlatformAppearing()
+	{
+=======
 	FIREANDICE_API UFunction* Z_Construct_UFunction_APlatformAppearing_BeginOverlap();
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
@@ -51,6 +56,7 @@ void EmptyLinkFunctionForGeneratedCodePlatformAppearing() {}
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
 		}
 		return ReturnFunction;
+>>>>>>> e11e291622e225cea3163c65daa8690dd96a2d02
 	}
 	UClass* Z_Construct_UClass_APlatformAppearing_NoRegister()
 	{
@@ -65,15 +71,20 @@ void EmptyLinkFunctionForGeneratedCodePlatformAppearing() {}
 				(UObject* (*)())Z_Construct_UClass_APlatformBase,
 				(UObject* (*)())Z_Construct_UPackage__Script_FireAndIce,
 			};
+<<<<<<< HEAD
+=======
 			static const FClassFunctionLinkInfo FuncInfo[] = {
 				{ &Z_Construct_UFunction_APlatformAppearing_BeginOverlap, "BeginOverlap" }, // 2863568161
 			};
+>>>>>>> e11e291622e225cea3163c65daa8690dd96a2d02
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 				{ "IncludePath", "PlatformAppearing.h" },
 				{ "ModuleRelativePath", "PlatformAppearing.h" },
 			};
 #endif
+<<<<<<< HEAD
+=======
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_IsFrozen_MetaData[] = {
 				{ "Category", "Appearing" },
@@ -94,6 +105,7 @@ void EmptyLinkFunctionForGeneratedCodePlatformAppearing() {}
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_IsFrozen,
 				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_MeltedMesh,
 			};
+>>>>>>> e11e291622e225cea3163c65daa8690dd96a2d02
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<APlatformAppearing>::IsAbstract,
 			};
@@ -101,8 +113,13 @@ void EmptyLinkFunctionForGeneratedCodePlatformAppearing() {}
 				&APlatformAppearing::StaticClass,
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00900080u,
+<<<<<<< HEAD
+				nullptr, 0,
+				nullptr, 0,
+=======
 				FuncInfo, ARRAY_COUNT(FuncInfo),
 				PropPointers, ARRAY_COUNT(PropPointers),
+>>>>>>> e11e291622e225cea3163c65daa8690dd96a2d02
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -112,7 +129,11 @@ void EmptyLinkFunctionForGeneratedCodePlatformAppearing() {}
 		}
 		return OuterClass;
 	}
+<<<<<<< HEAD
+	IMPLEMENT_CLASS(APlatformAppearing, 3265369876);
+=======
 	IMPLEMENT_CLASS(APlatformAppearing, 2396696722);
+>>>>>>> e11e291622e225cea3163c65daa8690dd96a2d02
 	static FCompiledInDefer Z_CompiledInDefer_UClass_APlatformAppearing(Z_Construct_UClass_APlatformAppearing, &APlatformAppearing::StaticClass, TEXT("/Script/FireAndIce"), TEXT("APlatformAppearing"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(APlatformAppearing);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
