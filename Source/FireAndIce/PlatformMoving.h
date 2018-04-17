@@ -36,5 +36,4 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void BeginOverlap(AActor* OtherActor);
 	
-	
 };

@@ -14,7 +14,15 @@ class FIREANDICE_API APlatformAppearing : public APlatformBase
 {
 	GENERATED_BODY()
 	
-	
-	
-	
+public:
+	APlatformAppearing();
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Mesh")
+	UStaticMeshComponent* MeltedMesh;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Appearing")
+	bool IsFrozen;
+
+	UFUNCTION(BlueprintCallable)
+	void BeginOverlap(AActor* OtherActor);
 };
