@@ -23,11 +23,11 @@
 /w44668
 /I "F:\Program Files\Epic Games\UE_4.18\Engine\Source"
 /D_HAS_EXCEPTIONS=0
-/FI"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\PCH.UELinkerFixups.h"
-/Yu"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\PCH.UELinkerFixups.h"
-/Fp"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
-"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4\Development\UELinkerFixups.cpp"
-/Fo"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\UELinkerFixups.cpp.obj"
+/FI"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\PCH.UELinkerFixups.h"
+/Yu"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\PCH.UELinkerFixups.h"
+/Fp"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\PCH.UELinkerFixups.h.pch"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4\Development\UELinkerFixups.cpp"
+/Fo"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\FireAndIce\Development\UELinkerFixups\UELinkerFixups.cpp.obj"
 /TP
 /GR-
 /W4

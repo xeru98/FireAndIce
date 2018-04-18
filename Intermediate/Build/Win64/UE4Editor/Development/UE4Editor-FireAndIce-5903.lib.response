@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FireAndIce-5903.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\FireAndIce.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\GM_Menu_FireandIce.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PC_Menu_FireandIce.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformAppearing.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformBase.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformMoving.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\FireAndIce.init.gen.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\GM_Menu_FireandIce.gen.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PC_Menu_FireandIce.gen.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformAppearing.gen.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformBase.gen.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PlatformMoving.gen.cpp.obj"
+"F:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\FireAndIce\PCLaunch.rc.res"
+"F:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FireAndIce-5903.lib"

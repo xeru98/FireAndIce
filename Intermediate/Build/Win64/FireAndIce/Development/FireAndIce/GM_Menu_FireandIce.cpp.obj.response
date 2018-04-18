@@ -22,9 +22,9 @@
 /wd4838
 /w44668
 /I "F:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I "F:\Libraries\Documents\Unreal Projects\FireAndIce\Source"
-/I "F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\UE4\Inc\FireAndIce"
-/I "F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce"
+/I F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source
+/I F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\UE4\Inc\FireAndIce
+/I F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIce
 /I "F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "F:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -224,9 +224,9 @@
 /FI"F:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4\Development\Engine\SharedPCH.Engine.h"
 /Yu"F:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4\Development\Engine\SharedPCH.Engine.h"
 /Fp"F:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4\Development\Engine\SharedPCH.Engine.h.pch"
-"F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\GM_Menu_FireandIce.cpp"
-/FI"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIce\Development\FireAndIce\Definitions.FireAndIce.h"
-/Fo"F:\Libraries\Documents\Unreal Projects\FireAndIce\Intermediate\Build\Win64\FireAndIce\Development\FireAndIce\GM_Menu_FireandIce.cpp.obj"
+"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIce\GM_Menu_FireandIce.cpp"
+/FI"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\FireAndIce\Development\FireAndIce\Definitions.FireAndIce.h"
+/Fo"F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Intermediate\Build\Win64\FireAndIce\Development\FireAndIce\GM_Menu_FireandIce.cpp.obj"
 /TP
 /GR-
 /W4

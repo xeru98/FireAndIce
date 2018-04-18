@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\FireAndIce.Build.cs
-F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIce.Target.cs
-F:\Libraries\Documents\Unreal Projects\FireAndIce\Source\FireAndIceEditor.Target.cs
-=======
-D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\FireAndIce.Build.cs
-D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Source\FireAndIce.Target.cs
-D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Source\FireAndIceEditor.Target.cs
->>>>>>> e11e291622e225cea3163c65daa8690dd96a2d02
+F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIce\FireAndIce.Build.cs
+F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIce.Target.cs
+F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIceEditor.Target.cs
