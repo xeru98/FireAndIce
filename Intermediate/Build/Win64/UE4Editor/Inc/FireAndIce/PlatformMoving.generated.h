@@ -14,7 +14,7 @@ class AActor;
 #endif
 #define FIREANDICE_PlatformMoving_generated_h
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execBeginOverlap) \
 	{ \
@@ -26,7 +26,7 @@ class AActor;
 	}
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execBeginOverlap) \
 	{ \
@@ -38,7 +38,7 @@ class AActor;
 	}
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_INCLASS_NO_PURE_DECLS \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlatformMoving(); \
 	friend FIREANDICE_API class UClass* Z_Construct_UClass_APlatformMoving(); \
@@ -48,7 +48,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_INCLASS \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAPlatformMoving(); \
 	friend FIREANDICE_API class UClass* Z_Construct_UClass_APlatformMoving(); \
@@ -58,7 +58,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_STANDARD_CONSTRUCTORS \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API APlatformMoving(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APlatformMoving) \
@@ -71,7 +71,7 @@ private: \
 public:
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_ENHANCED_CONSTRUCTORS \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API APlatformMoving(APlatformMoving&&); \
@@ -82,32 +82,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APlatformMoving); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APlatformMoving)
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_PRIVATE_PROPERTY_OFFSET
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_12_PROLOG
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_GENERATED_BODY_LEGACY \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_PRIVATE_PROPERTY_OFFSET
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_12_PROLOG
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_PRIVATE_PROPERTY_OFFSET \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_INCLASS \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_STANDARD_CONSTRUCTORS \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_PRIVATE_PROPERTY_OFFSET \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_INCLASS \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_GENERATED_BODY \
+#define FireAndIce_Source_FireAndIce_PlatformMoving_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_PRIVATE_PROPERTY_OFFSET \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_INCLASS_NO_PURE_DECLS \
-	FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h_15_ENHANCED_CONSTRUCTORS \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_PRIVATE_PROPERTY_OFFSET \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_INCLASS_NO_PURE_DECLS \
+	FireAndIce_Source_FireAndIce_PlatformMoving_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FireAndIce_Alpha_Source_FireAndIce_PlatformMoving_h
+#define CURRENT_FILE_ID FireAndIce_Source_FireAndIce_PlatformMoving_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,3 +1,3 @@
-F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIce\FireAndIce.Build.cs
-F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIce.Target.cs
-F:\Libraries\Desktop\FireAndIce\FireAndIce_Alpha\Source\FireAndIceEditor.Target.cs
+D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Source\FireAndIce\FireAndIce.Build.cs
+D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Source\FireAndIce.Target.cs
+D:\Users\Patrick I Critz\Documents\Unreal Projects\FireAndIce\Source\FireAndIceEditor.Target.cs
