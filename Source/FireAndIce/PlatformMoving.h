@@ -23,6 +23,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
 	bool IsFreezable;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
 	bool IsMoving;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
